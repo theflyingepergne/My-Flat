@@ -93,3 +93,5 @@ Intermediate/CachedAssetRegistry.bin
 Saved/Config/WindowsEditor/Engine.ini
 
 Content/StarterContent/*
+*.log
+Saved/Logs/StaffordRoad.log
